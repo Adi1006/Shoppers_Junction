@@ -57,10 +57,10 @@ const AboutPage = () => {
             </div>
 
             <div className={`col-md-5 ${styles.containt_box}`}>
-              <h5 className={styles.about_us_title}>Aditya Kumar</h5>
-              <p className={styles.about_us_text}>React JS Developer</p>
+              <h5 className={styles.about_us_title}>Aditya Kumar Gupta</h5>
+              <p className={styles.about_us_text}>MERN Stack Developer</p>
               <p className={styles.about_us_description}>
-              I am a frontend developer and React.js developer from Bengaluru. I have completed my Engineering in Information Science and Engineering from JSS Academy of Technical Education. I possess strong knowledge in React.js, Next.js, Redux, HTML, CSS, JavaScript, and Bootstrap. I have also built several projects utilizing these technologies.
+              I am a Frontend and Backend developer. I have completed my Engineering in Computer Science and Engineering from Meghnad Saha Institute of Technology. I possess strong knowledge in JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB. I have also built several projects utilizing these technologies.
               </p>
             </div>
           </div>
@@ -79,9 +79,9 @@ const AboutPage = () => {
                 quia nam incidunt minima maxime. */}
                 I made this e-commerce website for my own practice purpose. I am
                 collecting the product pictures from flipkart and I am
-                collecting the animated pictures from lottiefiles. Many thanks
+                collecting the animated pictures from Lottiefiles. Many thanks
                 to flipkart and lottiefiles. All the technologies that I have
-                used to make this website are:- React js, Css3, Javascript,
+                used to make this website are:- React js, CSS3, JavaScript,
                 Bootstrap, React router dom, React redux, Redux toolkit, and
                 React Icons etc.
               </p>

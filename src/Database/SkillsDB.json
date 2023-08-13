@@ -51,7 +51,12 @@
   },
   {
     "id": 11,
-    "skill_image": "https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png",
-    "skill_title": "Next JS"
+    "skill_image": "https://www.kindpng.com/picc/m/385-3850312_file-mongodb-mongodb-png-transparent-png.png",
+    "skill_title": "MongoDB"
+  },
+  {
+    "id": 12,
+    "skill_image": "https://www.kindpng.com/picc/m/656-6568580_nodejs-logo-png-transparent-node-js-icon-png.png",
+    "skill_title": "NodeJS"
   }
 ]

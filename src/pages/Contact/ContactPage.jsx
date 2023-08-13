@@ -50,14 +50,14 @@ const ContactPage = () => {
                 className={`col-md-3 ${styles.contact_me_div}`}
                 onClick={handlePhoneClick}
               >
-                <MdPhone className={styles.contact_icons} /> +91 9611088593
+                <MdPhone className={styles.contact_icons} /> +91 9102466168
               </div>
               <div
                 className={`col-md-3 mx-5 ${styles.contact_me_div}`}
                 onClick={handleEmailClick}
               >
                 <GrMail className={styles.contact_icons} />{" "}
-                aditya.kr.8593@gmail.com
+                adityag1006@gmail.com
               </div>
               <div
       className={`col-md-3 ${styles.contact_me_div}`}
@@ -79,7 +79,7 @@ const ContactPage = () => {
         </div>
         <div className={styles.map_box}>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d497701.18132924807!2d77.00697811356001!3d12.95325516916518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1685259062372!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115133.0163412045!2d85.06064140901707!3d25.608014355326677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f29937c52d4f05%3A0x831a0e05f607b270!2sPatna%2C%20Bihar!5e0!3m2!1sen!2sin!4v1691779319052!5m2!1sen!2sin"
             allowFullScreen
             loading="lazy"
             className={styles.map_div}

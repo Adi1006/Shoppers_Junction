@@ -33,7 +33,7 @@ const Footer = () => {
               <a
                 target="_blank"
                 className={styles.social_media_link}
-                href="https://www.instagram.com/aditya_86886/"
+                href="https://www.instagram.com/adityagupta5506/"
                 rel="noreferrer"
               >
                 <AiFillInstagram />
@@ -41,7 +41,7 @@ const Footer = () => {
               <a
                 target="_blank"
                 className={styles.social_media_link}
-                href="https://www.linkedin.com/in/aditya-kumar-6ba878214/"
+                href="https://www.linkedin.com/in/aditya-kumar-gupta-49aa6b21a/"
                 rel="noreferrer"
               >
                 <AiFillLinkedin />
@@ -63,7 +63,7 @@ const Footer = () => {
           </div>
           <div className={styles.call_div}>
             <p>Call us</p>
-            <p>+91 9611088593</p>
+            <p>+91 9102466168</p>
           </div>
         </div>
         <div className={styles.line}></div>
